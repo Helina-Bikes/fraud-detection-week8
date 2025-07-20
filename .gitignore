@@ -1,0 +1,14 @@
+# Ignore all CSV files in the root or anywhere
+*.csv
+
+# OR more specifically
+data/
+fraud_Data.csv
+IpAddress_to_Country.csv
+creditcard.csv
+fraud_Data_merged.csv
+fraud_Data_with_IP.csv
+
+# If you have temporary files or notebooks
+*.ipynb_checkpoints/
+*.log
